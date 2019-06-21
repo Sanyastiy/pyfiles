@@ -1,0 +1,10 @@
+import gmp1
+#gmp1.hw()
+#gmp1.ho()
+#gmp1.hsov()
+#gmp1.he()
+#gmp1.hx(input('enter x '))
+#gmp1.hf(input('enter i '),2,3,4)
+#gmp1.preobr(input('enter one value: '))
+print(gmp1.myfactorial(5))
+gmp1.containers()
